@@ -8,6 +8,7 @@
 ### Installation
 - Download the source code
 - Download Keymaster Minigame(Linked below)
+- Change the webhook inside server.lua
 - Extract and ensure the resources
 - Add an item fishingrod 
 
