@@ -7,7 +7,8 @@
 
 ### Installation
 - Download the source code
-- Extract and ensure the resource
+- Download Keymaster Minigame(Linked below)
+- Extract and ensure the resources
 - Add an item fishingrod 
 
 ### Dependency
