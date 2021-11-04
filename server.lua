@@ -5,8 +5,8 @@ local ItemList = {
 }
 
 discord = {
-    ['webhook'] = 'https://discord.com/api/webhooks/905764578372222986/is6jjORImn8kN-7eoocmim_Ps5VatcvMxXMnYemJTIyzOO0iJoDdI_hZXJ89KfoI1KCu',
-    ['name'] = 'FIB Heist Logs',
+    ['webhook'] = 'webhook',
+    ['name'] = 'Fishing Logs',
     ['image'] = 'https://cdn.discordapp.com/attachments/774536621802389544/899986988386623498/logo.png'
 }
 
