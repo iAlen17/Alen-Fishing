@@ -17,9 +17,15 @@
 
 ###Resmon Useage :
 - Idle/While Catching Fish
+
+
 ![](images-preview/fishing-resmon.png)
 - While near text
+
+
 ![](images-preview/text-resmon.png)
 
 ### Discord Logs : 
+
+
 ![](images-preview/discord-logs.png)
