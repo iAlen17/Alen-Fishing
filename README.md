@@ -1,6 +1,6 @@
 # Alen-Fishing
 
-**Preview** : https://www.youtube.com/watch?v=PfkbaleHIms
+### Preview : https://www.youtube.com/watch?v=PfkbaleHIms
 
 ![](images-preview/preview.png)
 
@@ -13,15 +13,23 @@
 - Add an item fishingrod 
 
 ### Dependency
+
 - [Keymaster Minigame](https://github.com/dsheedes/cd_keymaster)
 
-### ESX-Version : 
 
-###Resmon Useage :
+
+### ESX-Version : [Alen-Fishing](https://github.com/iAlen17/ESX-Alen-Fishing)
+
+
+### Resmon Useage :
+
+
 - Idle/While Catching Fish
 
 
 ![](images-preview/fishing-resmon.png)
+
+
 - While near text
 
 
