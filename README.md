@@ -4,7 +4,7 @@
 
 ![](images-preview/preview.png)
 
-###Installation(Nothing much)
+###Installation
 - Download the source code
 - Extract and ensure the resource
 - Add an item fishingrod 
